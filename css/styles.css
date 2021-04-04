@@ -1,0 +1,10 @@
+img{
+  float: right;
+}
+.sidebar{
+  width: 30%
+  float:left;
+  background-color: yellow;
+  background-blend-mode: darken;
+
+}
